@@ -15,11 +15,6 @@ public class StatusResource {
     public static RequestsUtil requestsUtil = new RequestsUtil();
     public static void getServerStatus() throws UnirestException {
         String url = "https://api.paladium.games/v1/status";
-        JsonNode json = requestsUtil.sendPost(url);
-        JsonNode jsonResponse = requestsUtil.sendGet(url);
-        System.err.println(jsonResponse.getObject().get("type").toString());
-        System.err.println(jsonResponse.getObject().get("message").toString());
-        String response = jsonResponse.getObject().toString();
-        System.out.println(response);
+        JsonNode json = requestsUtil.sendGet(url);
     }
 }
