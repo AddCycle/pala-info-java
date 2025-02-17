@@ -1,6 +1,6 @@
-# Contributing to [Project Name]
+# Contributing to Pala-info
 
-Thank you for your interest in contributing to [Project Name]! 🎉  
+Thank you for your interest in contributing to Pala-info ! 🎉  
 
 ## 📌 General Rules
 - You are free to submit Pull Requests.
@@ -9,7 +9,7 @@ Thank you for your interest in contributing to [Project Name]! 🎉
 
 ## 🔒 Rights & License
 - By contributing, you agree that your modifications will be integrated under the **Business Source License**.
-- The project owner ([Your Name]) retains **exclusive rights** for future commercial use.
+- The project owner (AddCycle) retains **exclusive rights** for future commercial use.
 
 ## ✅ Contribution Process
 1. **Fork** the repository.
