@@ -1,6 +1,6 @@
 # Contributing to Pala-info
 
-Thank you for your interest in contributing to Pala-info ! 🎉  
+Thank you for your interest in contributing to Pala-info website ! 🎉  
 
 ## 📌 General Rules
 - You are free to submit Pull Requests.
