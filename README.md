@@ -1,2 +1,2 @@
-# pala-info
-Palainfo - Le site informatif, pour la communauté
+# pala-info-java
+Palainfo - Le programme informatif, pour la communauté
